@@ -1,0 +1,15 @@
+linux commands:
+1. pwd: shows what is in the current directory
+2. mkdir: makes a folder in your current directory
+3. cd: stands for change directory and it lets you navigate through folders/directories
+git commands:
+1. config: used to set user parameters that lets git know ur account information
+2. clone: creates a local repository on your computer from a link to an remote repo
+3. status: shows the status of git files (such as modified, staged, or commited)
+4. commit: stages files to "prep" them for getting pushed
+5. push: puts staged files on the remote repository
+sylabus:
+1. include your sources and the names of students who you worked with as a separate document
+2. Do not use generative AI tools, other than that any resource is okay as long as you cite it
+3. 10% penalty for each day an assignment is late
+4. Participation grade will drop if you miss class
